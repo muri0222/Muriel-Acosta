@@ -1,0 +1,20 @@
+.baby{
+    border: 2px solid black;
+    background-image: url(https://portalvidalivre.com/uploads/content/image/155/AdobeStock_193603609.jpeg);
+background-size: cover;
+background-position: 50%;
+padding: 40px;
+
+
+}
+
+
+.content {
+    border: 2px solid black;
+    color: aliceblue;
+}
+div.content ul li:hover{
+font-family: 'Courier New', Courier, monospace;
+color: aqua;
+background-color: black;
+}
